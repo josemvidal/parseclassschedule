@@ -12,7 +12,7 @@ It uses:
 
 I used it to scrape all USC Columbia departments for Spring 2015, which came out to 9,985 section times in total.
 
-You can grab the resulting files [schedule.csv](http://jmvidal.cse.sc.edu/schedule/schedule.csv) and [schedule.json](http://jmvidal.cse.sc.edu/schedule.json).
+You can grab the resulting files [schedule.csv](http://jmvidal.cse.sc.edu/schedule/schedule.csv) and [schedule.json](http://jmvidal.cse.sc.edu/schedule/schedule.json).
 
 I plan to setup a nightly cron job to update these files automatically one a day.
 
