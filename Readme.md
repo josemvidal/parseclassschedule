@@ -9,3 +9,7 @@ It uses:
 * BeautifulSoup
 * csvkit
 * requests
+
+# Contribute
+
+I'm sure there are bugs. Let me know what you find. Even better, fix it yourself and send in a pull request.
