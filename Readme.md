@@ -21,3 +21,7 @@ I have a nightly cron job that updates these files automatically.
 I'm sure there are bugs. Let me know what you find. Even better, fix it yourself and send in a pull request.
 
 Also, I did not grab everything I could, just everything I thought people would want. If you want me to scrape something else, let me know.
+
+### Deployment
+
+To deploy I just have to "File->Download as .py"
