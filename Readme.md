@@ -10,11 +10,9 @@ It uses:
 * csvkit
 * requests
 
-I used it to scrape all USC Columbia departments for Spring 2015, which came out to 9,985 section times in total.
+I used it to scrape all USC Columbia departments for Spring 2015, which came out to 11,110 section times in total.
 
-You can grab the resulting files [schedule.csv](http://jmvidal.cse.sc.edu/schedule/schedule.csv) and [schedule.json](http://jmvidal.cse.sc.edu/schedule/schedule.json).
-
-I have a nightly cron job that updates these files automatically.
+You can grab the resulting files [schedule.csv](http://jmvidal.cse.sc.edu/schedule/schedule.csv) and [schedule.json](http://jmvidal.cse.sc.edu/schedule/schedule.json). A nightly cron job updates them.
 
 # Contribute
 
